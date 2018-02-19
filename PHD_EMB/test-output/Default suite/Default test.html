@@ -1,0 +1,305 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Feb 16 10:44:02 IST 2018</td>
+</tr>
+<tr><td>Total time:</td><td>147 seconds (147541 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='AllTestScripts.demo.testing()'><b>testing</b><br>Test class: AllTestScripts.demo<br/>
+<a href="#Output-173214986" onClick='toggleBox("Output-173214986", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-173214986" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-173214986">
+ clicked on practice page<br/>
+Entered user name for practice account   Appa<br/>
+Entered password for practice account  Welcome123<br/>
+clicked on practice  page login button<br/>
+Login is passed<br/>
+Clicked on patients tab<br/>
+Clicked on View button patients >> view<br/>
+Clicked on patients tab<br/>
+Clicked on eligibilitiy button patients >> eligibility<br/>
+Clicked on batches under patients >> eligibility >> batches<br/>
+Clicked on patients tab<br/>
+Clicked on eligibilitiy button patients >> eligibility<br/>
+Clicked on inquiries button under patients >> eligibility >> inquires<br/>
+Clicked on patients tab<br/>
+Clicked on referral or authorization<br/>
+Clicked on patients tab<br/>
+Clicked on History button<br/>
+Clicked on import/export under patients >> history >> import/export<br/>
+Clicked on patients tab<br/>
+Clicked on Debt set off <br/>
+Clicked on patients tab<br/>
+Clicked on Bad debt write off<br/>
+Clicked on patients tab<br/>
+Clicked on Debt sett off summary button<br/>
+Clicked on send batch tab<br/>
+Clicked on Batch Status Tab<br/>
+Clicked on Search tab on practice page<br/>
+Clicked on Batches under Search >> Batches on practice page<br/>
+Clicked on Search tab on practice page<br/>
+Clicked on claims under Search >>  claims on practice page<br/>
+Clicked on Search tab on practice page<br/>
+Clicked on Deleted claims under search >> Deleted claims on practice page<br/>
+Clicked on Search tab on practice page<br/>
+Clicked on Denials under Search >> Denials on practice page<br/>
+Clicked on Search tab on practice page<br/>
+Clicked on Errors under search >> Errors on practice page<br/>
+Clicked on Search tab on practice page<br/>
+Clicked on Rejections under search >> Rejections on practice page<br/>
+Clicked on New claim tab<br/>
+Clicked on Add primary professional under New claim >> Add primary professional<br/>
+Clicked on New claim tab<br/>
+Clicked on Add Secondary professional under New claim >> Add secondary professional<br/>
+Clicked on New claim tab<br/>
+Clicked on Add primary Institutional under New claim >> Add primary Institutional<br/>
+Clicked on New claim tab<br/>
+Clicked on Add Secondary Institutional under New claim >> Add secondary Institutional<br/>
+Clicked on posting tab<br/>
+Clicked on Manage under Posting >> Manage on practice account<br/>
+Clicked on posting tab<br/>
+Clicked on Check EFT under posting >> check EFT on practice account<br/>
+Clicked on patient statements tab<br/>
+Clicked on manage under patient statements >> Manage<br/>
+Clicked on Reports Tab<br/>
+Clicked on Batch under Reports >> Batch on practice account<br/>
+Clicked on Reports Tab<br/>
+Clicked on claim button under Reports >>  claim on practice account<br/>
+Clicked on Detail button under Reports >> Claim >> Detail on practice account<br/>
+Clicked on Reports Tab<br/>
+Clicked on claim button under Reports >>  claim on practice account<br/>
+Clicked on Master button under Reports >> Claim >> Master on practice account<br/>
+Clicked on Reports Tab<br/>
+Clicked on claim button under Reports >>  claim on practice account<br/>
+Clicked on Closed button under Reports >> Claim >> Closed on practice account<br/>
+Clicked on Reports Tab<br/>
+Clicked on claim button under Reports >>  claim on practice account<br/>
+Clicked on Antipate Revenue button under Reports >> Claim >> Anticipate Revenue<br/>
+Clicked on Reports Tab<br/>
+Clicked on claim button under Reports >>  claim on practice account<br/>
+Clicked on Contracted button under Reports >> Claim >> Contracted<br/>
+Clicked on Reports Tab<br/>
+Clicked on claim button under Reports >>  claim on practice account<br/>
+Clicked on Billing button under Reports >> Claim >> Billing<br/>
+Clicked on Reports Tab<br/>
+Clicked on claim button under Reports >>  claim on practice account<br/>
+Clicked on Late Biling under Reports >> Claim >> Late Filing<br/>
+Clicked on Reports Tab<br/>
+Clicked on claim button under Reports >>  claim on practice account<br/>
+Clicked on Claim Export under Reports >> Claim >> Claim Export<br/>
+Clicked on Reports Tab<br/>
+Clicked on Service Line button under Reports >> Service Line on practice account<br/>
+Clicked on Details under Reports >> Service Line >> Details<br/>
+Clicked on Reports Tab<br/>
+Clicked on Service Line button under Reports >> Service Line on practice account<br/>
+Clicked on Denied Service button under Reports >> Servie Line >> Denied Service<br/>
+Clicked on Reports Tab<br/>
+Clicked on Patient button under Reports >> Patient on practice account<br/>
+Clicked on cash posting button under Reports >> Patient >> cash posting<br/>
+Clicked on Reports Tab<br/>
+Clicked on Patient button under Reports >> Patient on practice account<br/>
+Clicked on cash posting button under Reports >> Patient >> cash posting<br/>
+Clicked on Default button under Reports >> Patient >> cash Posting >> Default<br/>
+Clicked on Reports Tab<br/>
+Clicked on Patient button under Reports >> Patient on practice account<br/>
+Clicked on cash posting button under Reports >> Patient >> cash posting<br/>
+Clicked on By Program button under Reports >> Patient >> cash Posting >> By Program<br/>
+Clicked on Reports Tab<br/>
+Clicked on Patient button under Reports >> Patient on practice account<br/>
+Clicked on cash posting button under Reports >> Patient >> cash posting<br/>
+Clicked on Deleted button under Reports >> Patient >> Cash Posting >> Deleted<br/>
+Clicked on Reports Tab<br/>
+Clicked on Patient button under Reports >> Patient on practice account<br/>
+Clicked on Collection Report button under Reports >> Patient >> Collection Report<br/>
+Clicked on Reports Tab<br/>
+Clicked on Patient button under Reports >> Patient on practice account<br/>
+Clicked on Medicad Patient vol button under Reports >> Patient >> Medicad patient Vol<br/>
+Clicked on Reports Tab<br/>
+Clicked on Aging button under Reports >> Aging on practice account<br/>
+Clicked on Insurance Claim Button under Reports >> Aging >> Insurance Claim<br/>
+Clicked on Reports Tab<br/>
+Clicked on Aging button under Reports >> Aging on practice account<br/>
+Clicked on Self Pay claim button under Reports  >> Aging >> Self Pay Claim<br/>
+Clicked on Reports Tab<br/>
+Clicked on Aging button under Reports >> Aging on practice account<br/>
+Clicked On By DOS button under Reports >> Aging >> By DOS<br/>
+Clicked on Reports Tab<br/>
+Clicked on Aging button under Reports >> Aging on practice account<br/>
+Clicked on A/R button under Reports >> Aging >> A/R<br/>
+Clicked on Reports Tab<br/>
+Clicked on Aging button under Reports >> Aging on practice account<br/>
+Clicked on Ledger Balance button under Reports >> Aging >> Ledger Balance<br/>
+Clicked on Reports Tab<br/>
+Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account<br/>
+Clicked on Medicaid By RA Date button under Reports >> Payment Analysis Report >> Medicaid By RA date<br/>
+Clicked on Reports Tab<br/>
+Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account<br/>
+Clicked on By RA Date and Payer button under Reports >> Payment Analysis Report >> By RA Date and Payer<br/>
+Clicked on Reports Tab<br/>
+Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account<br/>
+Clicked on Invoice button under Reports >> Payment Analysis Report >> Invoice<br/>
+Clicked on Reports Tab<br/>
+Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account<br/>
+Clicked on Revenue Summary button under Reports >> Payment Analysis Report >> Revenue Summary<br/>
+Clicked on Reports Tab<br/>
+Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account<br/>
+CLicked on Practice Analysis button under Reports >> Payment Analysis Reports >> Pratice Analysis button<br/>
+Clicked on By claims button under Reports >> Payment Analysis Reports >> Practice Analysis >> By claims<br/>
+Clicked on Reports Tab<br/>
+Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account<br/>
+CLicked on Practice Analysis button under Reports >> Payment Analysis Reports >> Pratice Analysis button<br/>
+CLicked on By procedure button under Reports >> Payment Analysis Reports >> Practice Analysis >> By procedure<br/>
+Clicked on Reports Tab<br/>
+Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account<br/>
+CLicked on Practice Analysis button under Reports >> Payment Analysis Reports >> Pratice Analysis button<br/>
+Clicked on A/R Summary button under Reports >> Payment Analysis Reports >> Practice Analysis >> A/R Summary<br/>
+Clicked on Reports Tab<br/>
+Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account<br/>
+Clicked on Insurance Analysis button under Reports >> Payment Analysis Reports >> Insurance Analysis button<br/>
+Clicked on By Payer button under Reports >> Payment Analysis Reports >> Insurance Analysis >> By Payer<br/>
+Clicked on Reports Tab<br/>
+Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account<br/>
+Clicked on Insurance Analysis button under Reports >> Payment Analysis Reports >> Insurance Analysis button<br/>
+Clicked on By procedure under Reports >> Payment Analysis Reports >> Insurance Analysis >> By Procedure<br/>
+Clicked on Reports Tab<br/>
+Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account<br/>
+Clicked on Insurance Analysis button under Reports >> Payment Analysis Reports >> Insurance Analysis button<br/>
+Clicked on Totals button under Reports >> Payment Analysis Reports >> Insurance Analysis >> Totals<br/>
+Clicked on Reports Tab<br/>
+Clicked on Activity Reports under Reports >> Activity Reports on practice account<br/>
+Clicked On Activity Summary button under Reports  >> Activity Reports >> Activity Summary<br/>
+Clicked on By Provider button under Reports >> Activity Reports >> Activity Summary >> By Provider<br/>
+Clicked on Reports Tab<br/>
+Clicked on Activity Reports under Reports >> Activity Reports on practice account<br/>
+Clicked On Activity Summary button under Reports  >> Activity Reports >> Activity Summary<br/>
+Clicked on By Insurance button under Reports >> Activity Reports >> Activity Summary >> By Insurance<br/>
+Clicked on Reports Tab<br/>
+Clicked on Activity Reports under Reports >> Activity Reports on practice account<br/>
+Clicked on Daily Activity button under Reports >> Activity Reports >> Daily Activity<br/>
+Clicked on By Procedure button under Reports >> Activity Reports >> Daily Activity >> By Procedure<br/>
+Clicked on Reports Tab<br/>
+Clicked on Activity Reports under Reports >> Activity Reports on practice account<br/>
+Clicked on Daily Activity button under Reports >> Activity Reports >> Daily Activity<br/>
+Clicked On By Procedure and Program button under Reports >> Activity Reports >> Daily Activity >> By Procedure and Program<br/>
+Clicked on Reports Tab<br/>
+Clicked on Activity Reports under Reports >> Activity Reports on practice account<br/>
+Clicked on Daily Activity button under Reports >> Activity Reports >> Daily Activity<br/>
+Clicked On Census button under Reports >> Activity Reports >> Daily Activity >> Census<br/>
+Clicked on Reports Tab<br/>
+Clicked on Activity Reports under Reports >> Activity Reports on practice account<br/>
+Clicked on Daily Activity button under Reports >> Activity Reports >> Daily Activity<br/>
+Clicked On Provider Schedule under Reports >> Activity Reports >> Daily Activity >> Provider Schedule<br/>
+Clicked on Reports Tab<br/>
+Clicked on Activity Reports under Reports >> Activity Reports on practice account<br/>
+Clicked On Patient Activity button under Reports >> Activity Reports >> Patient Activity<br/>
+Clicked on Reports Tab<br/>
+Clicked on Activity Reports under Reports >> Activity Reports on practice account<br/>
+Clicked on Billing Activity button under Reports  >> Activity Reports >> Billing Activity<br/>
+Clicked on Reports Tab<br/>
+Clicked on Activity Reports under Reports >> Activity Reports on practice account<br/>
+Clicked On Ins Payment Activity button under Reports >> Activity Reports >> Ins Payment Activity<br/>
+Clicked on Reports Tab<br/>
+Clicked on SFS program button under Reports >> SFS program on practice account<br/>
+Clicked on Program Summary button under Reports >> SFS program >> Program Summary<br/>
+Clicked on Reports Tab<br/>
+Clicked on SFS program button under Reports >> SFS program on practice account<br/>
+Clicked On SFS Totals button under Reports >> SFS Program >> SFS Totals<br/>
+Clicked on Reports Tab<br/>
+Clicked on Ambulance button under Reports >> Ambulance on practice account<br/>
+Clicked On Anticipated Revenue By pick Up Zip button under Reports >> Ambulance >> Anticipated Revenue By Pick Up Zip <br/>
+Clicked on Reports Tab<br/>
+Clicked on Ambulance button under Reports >> Ambulance on practice account<br/>
+Clicked on ALS/BLS button under Reports >> Ambulance >> ALS / BLS <br/>
+Clicked on Reports Tab<br/>
+Clicked on Ambulance button under Reports >> Ambulance on practice account<br/>
+Clicked on Pick up button under Reports >> Ambulance >> Pick up<br/>
+Clicked on Reports Tab<br/>
+Clicked on Others under Reports >> others on practice account<br/>
+Clicked on Medicaid/Non Medicaid button under Reports >> Others >> Medicaid/Non Medicaid<br/>
+Clicked on Reports Tab<br/>
+Clicked on View Reports under Reports >> View Reports on practice account<br/>
+Clicked on Invoice Tab on practice account<br/>
+Clicked on Create button under Invoice >> create on practice account<br/>
+Clicked on Invoice Tab on practice account<br/>
+Clicked on Rate chart button under Invoice >> Rate Chart on practice account<br/>
+Clicked on Invoice Tab on practice account<br/>
+Clicked on Setting button under Invoice >> Settings on practice account<br/>
+</div>
+</td>
+<td></td>
+<td>141</td>
+<td>AllTestScripts.demo@402f32ff</td></tr>
+</table><p>
+</body>
+</html>

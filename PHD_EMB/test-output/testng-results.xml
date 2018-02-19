@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Loaded the URL  https://192.168.10.249/index.html]]>
+    </line>
+    <line>
+      <![CDATA[Started testing on  https://192.168.10.249/index.html]]>
+    </line>
+    <line>
+      <![CDATA[Implict wait time is  30]]>
+    </line>
+    <line>
+      <![CDATA[ clicked on practice page]]>
+    </line>
+    <line>
+      <![CDATA[Entered user name for practice account   Appa]]>
+    </line>
+    <line>
+      <![CDATA[Entered password for practice account  Welcome123]]>
+    </line>
+    <line>
+      <![CDATA[clicked on practice  page login button]]>
+    </line>
+    <line>
+      <![CDATA[Login is passed]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on patients tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on View button patients >> view]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on patients tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on eligibilitiy button patients >> eligibility]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on batches under patients >> eligibility >> batches]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on patients tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on eligibilitiy button patients >> eligibility]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on inquiries button under patients >> eligibility >> inquires]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on patients tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on referral or authorization]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on patients tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on History button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on import/export under patients >> history >> import/export]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on patients tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Debt set off ]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on patients tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Bad debt write off]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on patients tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Debt sett off summary button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on send batch tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Batch Status Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Search tab on practice page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Batches under Search >> Batches on practice page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Search tab on practice page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on claims under Search >>  claims on practice page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Search tab on practice page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Deleted claims under search >> Deleted claims on practice page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Search tab on practice page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Denials under Search >> Denials on practice page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Search tab on practice page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Errors under search >> Errors on practice page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Search tab on practice page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Rejections under search >> Rejections on practice page]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on New claim tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Add primary professional under New claim >> Add primary professional]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on New claim tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Add Secondary professional under New claim >> Add secondary professional]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on New claim tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Add primary Institutional under New claim >> Add primary Institutional]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on New claim tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Add Secondary Institutional under New claim >> Add secondary Institutional]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on posting tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Manage under Posting >> Manage on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on posting tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Check EFT under posting >> check EFT on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on patient statements tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on manage under patient statements >> Manage]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Batch under Reports >> Batch on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on claim button under Reports >>  claim on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Detail button under Reports >> Claim >> Detail on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on claim button under Reports >>  claim on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Master button under Reports >> Claim >> Master on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on claim button under Reports >>  claim on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Closed button under Reports >> Claim >> Closed on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on claim button under Reports >>  claim on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Antipate Revenue button under Reports >> Claim >> Anticipate Revenue]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on claim button under Reports >>  claim on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Contracted button under Reports >> Claim >> Contracted]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on claim button under Reports >>  claim on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Billing button under Reports >> Claim >> Billing]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on claim button under Reports >>  claim on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Late Biling under Reports >> Claim >> Late Filing]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on claim button under Reports >>  claim on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Claim Export under Reports >> Claim >> Claim Export]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Service Line button under Reports >> Service Line on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Details under Reports >> Service Line >> Details]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Service Line button under Reports >> Service Line on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Denied Service button under Reports >> Servie Line >> Denied Service]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Patient button under Reports >> Patient on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on cash posting button under Reports >> Patient >> cash posting]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Patient button under Reports >> Patient on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on cash posting button under Reports >> Patient >> cash posting]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Default button under Reports >> Patient >> cash Posting >> Default]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Patient button under Reports >> Patient on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on cash posting button under Reports >> Patient >> cash posting]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on By Program button under Reports >> Patient >> cash Posting >> By Program]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Patient button under Reports >> Patient on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on cash posting button under Reports >> Patient >> cash posting]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Deleted button under Reports >> Patient >> Cash Posting >> Deleted]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Patient button under Reports >> Patient on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Collection Report button under Reports >> Patient >> Collection Report]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Patient button under Reports >> Patient on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Medicad Patient vol button under Reports >> Patient >> Medicad patient Vol]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Aging button under Reports >> Aging on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Insurance Claim Button under Reports >> Aging >> Insurance Claim]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Aging button under Reports >> Aging on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Self Pay claim button under Reports  >> Aging >> Self Pay Claim]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Aging button under Reports >> Aging on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked On By DOS button under Reports >> Aging >> By DOS]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Aging button under Reports >> Aging on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on A/R button under Reports >> Aging >> A/R]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Aging button under Reports >> Aging on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Ledger Balance button under Reports >> Aging >> Ledger Balance]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Medicaid By RA Date button under Reports >> Payment Analysis Report >> Medicaid By RA date]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on By RA Date and Payer button under Reports >> Payment Analysis Report >> By RA Date and Payer]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Invoice button under Reports >> Payment Analysis Report >> Invoice]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Revenue Summary button under Reports >> Payment Analysis Report >> Revenue Summary]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account]]>
+    </line>
+    <line>
+      <![CDATA[CLicked on Practice Analysis button under Reports >> Payment Analysis Reports >> Pratice Analysis button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on By claims button under Reports >> Payment Analysis Reports >> Practice Analysis >> By claims]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account]]>
+    </line>
+    <line>
+      <![CDATA[CLicked on Practice Analysis button under Reports >> Payment Analysis Reports >> Pratice Analysis button]]>
+    </line>
+    <line>
+      <![CDATA[CLicked on By procedure button under Reports >> Payment Analysis Reports >> Practice Analysis >> By procedure]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account]]>
+    </line>
+    <line>
+      <![CDATA[CLicked on Practice Analysis button under Reports >> Payment Analysis Reports >> Pratice Analysis button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on A/R Summary button under Reports >> Payment Analysis Reports >> Practice Analysis >> A/R Summary]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Insurance Analysis button under Reports >> Payment Analysis Reports >> Insurance Analysis button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on By Payer button under Reports >> Payment Analysis Reports >> Insurance Analysis >> By Payer]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Insurance Analysis button under Reports >> Payment Analysis Reports >> Insurance Analysis button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on By procedure under Reports >> Payment Analysis Reports >> Insurance Analysis >> By Procedure]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Insurance Analysis button under Reports >> Payment Analysis Reports >> Insurance Analysis button]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Totals button under Reports >> Payment Analysis Reports >> Insurance Analysis >> Totals]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Activity Reports under Reports >> Activity Reports on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked On Activity Summary button under Reports  >> Activity Reports >> Activity Summary]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on By Provider button under Reports >> Activity Reports >> Activity Summary >> By Provider]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Activity Reports under Reports >> Activity Reports on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked On Activity Summary button under Reports  >> Activity Reports >> Activity Summary]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on By Insurance button under Reports >> Activity Reports >> Activity Summary >> By Insurance]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Activity Reports under Reports >> Activity Reports on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Daily Activity button under Reports >> Activity Reports >> Daily Activity]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on By Procedure button under Reports >> Activity Reports >> Daily Activity >> By Procedure]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Activity Reports under Reports >> Activity Reports on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Daily Activity button under Reports >> Activity Reports >> Daily Activity]]>
+    </line>
+    <line>
+      <![CDATA[Clicked On By Procedure and Program button under Reports >> Activity Reports >> Daily Activity >> By Procedure and Program]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Activity Reports under Reports >> Activity Reports on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Daily Activity button under Reports >> Activity Reports >> Daily Activity]]>
+    </line>
+    <line>
+      <![CDATA[Clicked On Census button under Reports >> Activity Reports >> Daily Activity >> Census]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Activity Reports under Reports >> Activity Reports on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Daily Activity button under Reports >> Activity Reports >> Daily Activity]]>
+    </line>
+    <line>
+      <![CDATA[Clicked On Provider Schedule under Reports >> Activity Reports >> Daily Activity >> Provider Schedule]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Activity Reports under Reports >> Activity Reports on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked On Patient Activity button under Reports >> Activity Reports >> Patient Activity]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Activity Reports under Reports >> Activity Reports on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Billing Activity button under Reports  >> Activity Reports >> Billing Activity]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Activity Reports under Reports >> Activity Reports on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked On Ins Payment Activity button under Reports >> Activity Reports >> Ins Payment Activity]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on SFS program button under Reports >> SFS program on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Program Summary button under Reports >> SFS program >> Program Summary]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on SFS program button under Reports >> SFS program on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked On SFS Totals button under Reports >> SFS Program >> SFS Totals]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Ambulance button under Reports >> Ambulance on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked On Anticipated Revenue By pick Up Zip button under Reports >> Ambulance >> Anticipated Revenue By Pick Up Zip ]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Ambulance button under Reports >> Ambulance on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on ALS/BLS button under Reports >> Ambulance >> ALS / BLS ]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Ambulance button under Reports >> Ambulance on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Pick up button under Reports >> Ambulance >> Pick up]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Others under Reports >> others on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Medicaid/Non Medicaid button under Reports >> Others >> Medicaid/Non Medicaid]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Reports Tab]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on View Reports under Reports >> View Reports on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Invoice Tab on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Create button under Invoice >> create on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Invoice Tab on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Rate chart button under Invoice >> Rate Chart on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Invoice Tab on practice account]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Setting button under Invoice >> Settings on practice account]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="147541" started-at="2018-02-16T05:14:02Z" finished-at="2018-02-16T05:16:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="147541" started-at="2018-02-16T05:14:02Z" finished-at="2018-02-16T05:16:29Z">
+      <class name="AllTestScripts.demo">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:AllTestScripts.demo@402f32ff]" name="openBrowser" is-config="true" duration-ms="4841" started-at="2018-02-16T10:44:02Z" finished-at="2018-02-16T10:44:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Loaded the URL  https://192.168.10.249/index.html]]>
+            </line>
+            <line>
+              <![CDATA[Started testing on  https://192.168.10.249/index.html]]>
+            </line>
+            <line>
+              <![CDATA[Implict wait time is  30]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="testing()[pri:0, instance:AllTestScripts.demo@402f32ff]" name="testing" duration-ms="141533" started-at="2018-02-16T10:44:06Z" finished-at="2018-02-16T10:46:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[ clicked on practice page]]>
+            </line>
+            <line>
+              <![CDATA[Entered user name for practice account   Appa]]>
+            </line>
+            <line>
+              <![CDATA[Entered password for practice account  Welcome123]]>
+            </line>
+            <line>
+              <![CDATA[clicked on practice  page login button]]>
+            </line>
+            <line>
+              <![CDATA[Login is passed]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on patients tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on View button patients >> view]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on patients tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on eligibilitiy button patients >> eligibility]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on batches under patients >> eligibility >> batches]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on patients tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on eligibilitiy button patients >> eligibility]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on inquiries button under patients >> eligibility >> inquires]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on patients tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on referral or authorization]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on patients tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on History button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on import/export under patients >> history >> import/export]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on patients tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Debt set off ]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on patients tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Bad debt write off]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on patients tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Debt sett off summary button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on send batch tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Batch Status Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Search tab on practice page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Batches under Search >> Batches on practice page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Search tab on practice page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on claims under Search >>  claims on practice page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Search tab on practice page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Deleted claims under search >> Deleted claims on practice page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Search tab on practice page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Denials under Search >> Denials on practice page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Search tab on practice page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Errors under search >> Errors on practice page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Search tab on practice page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Rejections under search >> Rejections on practice page]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on New claim tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Add primary professional under New claim >> Add primary professional]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on New claim tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Add Secondary professional under New claim >> Add secondary professional]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on New claim tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Add primary Institutional under New claim >> Add primary Institutional]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on New claim tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Add Secondary Institutional under New claim >> Add secondary Institutional]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on posting tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Manage under Posting >> Manage on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on posting tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Check EFT under posting >> check EFT on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on patient statements tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on manage under patient statements >> Manage]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Batch under Reports >> Batch on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on claim button under Reports >>  claim on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Detail button under Reports >> Claim >> Detail on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on claim button under Reports >>  claim on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Master button under Reports >> Claim >> Master on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on claim button under Reports >>  claim on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Closed button under Reports >> Claim >> Closed on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on claim button under Reports >>  claim on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Antipate Revenue button under Reports >> Claim >> Anticipate Revenue]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on claim button under Reports >>  claim on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Contracted button under Reports >> Claim >> Contracted]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on claim button under Reports >>  claim on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Billing button under Reports >> Claim >> Billing]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on claim button under Reports >>  claim on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Late Biling under Reports >> Claim >> Late Filing]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on claim button under Reports >>  claim on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Claim Export under Reports >> Claim >> Claim Export]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Service Line button under Reports >> Service Line on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Details under Reports >> Service Line >> Details]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Service Line button under Reports >> Service Line on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Denied Service button under Reports >> Servie Line >> Denied Service]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Patient button under Reports >> Patient on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on cash posting button under Reports >> Patient >> cash posting]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Patient button under Reports >> Patient on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on cash posting button under Reports >> Patient >> cash posting]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Default button under Reports >> Patient >> cash Posting >> Default]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Patient button under Reports >> Patient on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on cash posting button under Reports >> Patient >> cash posting]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on By Program button under Reports >> Patient >> cash Posting >> By Program]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Patient button under Reports >> Patient on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on cash posting button under Reports >> Patient >> cash posting]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Deleted button under Reports >> Patient >> Cash Posting >> Deleted]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Patient button under Reports >> Patient on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Collection Report button under Reports >> Patient >> Collection Report]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Patient button under Reports >> Patient on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Medicad Patient vol button under Reports >> Patient >> Medicad patient Vol]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Aging button under Reports >> Aging on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Insurance Claim Button under Reports >> Aging >> Insurance Claim]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Aging button under Reports >> Aging on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Self Pay claim button under Reports  >> Aging >> Self Pay Claim]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Aging button under Reports >> Aging on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked On By DOS button under Reports >> Aging >> By DOS]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Aging button under Reports >> Aging on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on A/R button under Reports >> Aging >> A/R]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Aging button under Reports >> Aging on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Ledger Balance button under Reports >> Aging >> Ledger Balance]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Medicaid By RA Date button under Reports >> Payment Analysis Report >> Medicaid By RA date]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on By RA Date and Payer button under Reports >> Payment Analysis Report >> By RA Date and Payer]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Invoice button under Reports >> Payment Analysis Report >> Invoice]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Revenue Summary button under Reports >> Payment Analysis Report >> Revenue Summary]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account]]>
+            </line>
+            <line>
+              <![CDATA[CLicked on Practice Analysis button under Reports >> Payment Analysis Reports >> Pratice Analysis button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on By claims button under Reports >> Payment Analysis Reports >> Practice Analysis >> By claims]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account]]>
+            </line>
+            <line>
+              <![CDATA[CLicked on Practice Analysis button under Reports >> Payment Analysis Reports >> Pratice Analysis button]]>
+            </line>
+            <line>
+              <![CDATA[CLicked on By procedure button under Reports >> Payment Analysis Reports >> Practice Analysis >> By procedure]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account]]>
+            </line>
+            <line>
+              <![CDATA[CLicked on Practice Analysis button under Reports >> Payment Analysis Reports >> Pratice Analysis button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on A/R Summary button under Reports >> Payment Analysis Reports >> Practice Analysis >> A/R Summary]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Insurance Analysis button under Reports >> Payment Analysis Reports >> Insurance Analysis button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on By Payer button under Reports >> Payment Analysis Reports >> Insurance Analysis >> By Payer]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Insurance Analysis button under Reports >> Payment Analysis Reports >> Insurance Analysis button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on By procedure under Reports >> Payment Analysis Reports >> Insurance Analysis >> By Procedure]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Insurance Analysis button under Reports >> Payment Analysis Reports >> Insurance Analysis button]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Totals button under Reports >> Payment Analysis Reports >> Insurance Analysis >> Totals]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Activity Reports under Reports >> Activity Reports on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked On Activity Summary button under Reports  >> Activity Reports >> Activity Summary]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on By Provider button under Reports >> Activity Reports >> Activity Summary >> By Provider]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Activity Reports under Reports >> Activity Reports on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked On Activity Summary button under Reports  >> Activity Reports >> Activity Summary]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on By Insurance button under Reports >> Activity Reports >> Activity Summary >> By Insurance]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Activity Reports under Reports >> Activity Reports on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Daily Activity button under Reports >> Activity Reports >> Daily Activity]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on By Procedure button under Reports >> Activity Reports >> Daily Activity >> By Procedure]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Activity Reports under Reports >> Activity Reports on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Daily Activity button under Reports >> Activity Reports >> Daily Activity]]>
+            </line>
+            <line>
+              <![CDATA[Clicked On By Procedure and Program button under Reports >> Activity Reports >> Daily Activity >> By Procedure and Program]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Activity Reports under Reports >> Activity Reports on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Daily Activity button under Reports >> Activity Reports >> Daily Activity]]>
+            </line>
+            <line>
+              <![CDATA[Clicked On Census button under Reports >> Activity Reports >> Daily Activity >> Census]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Activity Reports under Reports >> Activity Reports on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Daily Activity button under Reports >> Activity Reports >> Daily Activity]]>
+            </line>
+            <line>
+              <![CDATA[Clicked On Provider Schedule under Reports >> Activity Reports >> Daily Activity >> Provider Schedule]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Activity Reports under Reports >> Activity Reports on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked On Patient Activity button under Reports >> Activity Reports >> Patient Activity]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Activity Reports under Reports >> Activity Reports on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Billing Activity button under Reports  >> Activity Reports >> Billing Activity]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Activity Reports under Reports >> Activity Reports on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked On Ins Payment Activity button under Reports >> Activity Reports >> Ins Payment Activity]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on SFS program button under Reports >> SFS program on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Program Summary button under Reports >> SFS program >> Program Summary]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on SFS program button under Reports >> SFS program on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked On SFS Totals button under Reports >> SFS Program >> SFS Totals]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Ambulance button under Reports >> Ambulance on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked On Anticipated Revenue By pick Up Zip button under Reports >> Ambulance >> Anticipated Revenue By Pick Up Zip ]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Ambulance button under Reports >> Ambulance on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on ALS/BLS button under Reports >> Ambulance >> ALS / BLS ]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Ambulance button under Reports >> Ambulance on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Pick up button under Reports >> Ambulance >> Pick up]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Others under Reports >> others on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Medicaid/Non Medicaid button under Reports >> Others >> Medicaid/Non Medicaid]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Reports Tab]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on View Reports under Reports >> View Reports on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Invoice Tab on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Create button under Invoice >> create on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Invoice Tab on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Rate chart button under Invoice >> Rate Chart on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Invoice Tab on practice account]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Setting button under Invoice >> Settings on practice account]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testing -->
+        <test-method status="PASS" signature="closeBrowser(org.testng.ITestResult)[pri:0, instance:AllTestScripts.demo@402f32ff]" name="closeBrowser" is-config="true" duration-ms="1167" started-at="2018-02-16T10:46:28Z" finished-at="2018-02-16T10:46:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testing status=SUCCESS method=demo.testing()[pri:0, instance:AllTestScripts.demo@402f32ff] output= clicked on practice page]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- AllTestScripts.demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

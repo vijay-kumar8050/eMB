@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Default_suite">
+              <span class="suite-name border-passed">Default suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Default_suite">
+                    <span>C:\Users\anand.I-TECH\AppData\Local\Temp\testng-eclipse--556593474\testng-customsuite.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Default_suite">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Default_suite">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Default_suite">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Default_suite">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Default_suite">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Default_suite">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">1 method,   1 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Default_suite" class="hide-methods passed suite-Default_suite"> (hide)</a> <!-- hide-methods passed suite-Default_suite -->
+                      <a href="#" panel-name="suite-Default_suite" class="show-methods passed suite-Default_suite"> (show)</a> <!-- show-methods passed suite-Default_suite -->
+                    </span>
+                    <div class="method-list-content passed suite-Default_suite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="AllTestScripts.demo" hash-for-method="testing">testing</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Default_suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Default_suite" class="panel Default_suite">
+          <div class="suite-Default_suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">AllTestScripts.demo</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="testing">
+                  </a> <!-- testing -->
+                  <span class="method-name">testing</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Default_suite-class-passed -->
+        </div> <!-- panel Default_suite -->
+        <div panel-name="test-xml-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\anand.I-TECH\AppData\Local\Temp\testng-eclipse--556593474\testng-customsuite.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;Default suite&quot;&gt;
+  &lt;test verbose=&quot;2&quot; name=&quot;Default test&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;AllTestScripts.demo&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Default test --&gt;
+&lt;/suite&gt; &lt;!-- Default suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Default test (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Default_suite');
+function tableData_Default_suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(1);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'testing')
+data.setCell(0, 2, 'AllTestScripts.demo')
+data.setCell(0, 3, 141533);
+window.suiteTableData['Default_suite']= { tableData: data, tableDiv: 'times-div-Default_suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 2 minutes</span>
+              <div id="times-div-Default_suite">
+              </div> <!-- times-div-Default_suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">testing</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"> clicked on practice page</span>
+                <span class="reporter-method-output">Entered user name for practice account   Appa</span>
+                <span class="reporter-method-output">Entered password for practice account  Welcome123</span>
+                <span class="reporter-method-output">clicked on practice  page login button</span>
+                <span class="reporter-method-output">Login is passed</span>
+                <span class="reporter-method-output">Clicked on patients tab</span>
+                <span class="reporter-method-output">Clicked on View button patients >> view</span>
+                <span class="reporter-method-output">Clicked on patients tab</span>
+                <span class="reporter-method-output">Clicked on eligibilitiy button patients >> eligibility</span>
+                <span class="reporter-method-output">Clicked on batches under patients >> eligibility >> batches</span>
+                <span class="reporter-method-output">Clicked on patients tab</span>
+                <span class="reporter-method-output">Clicked on eligibilitiy button patients >> eligibility</span>
+                <span class="reporter-method-output">Clicked on inquiries button under patients >> eligibility >> inquires</span>
+                <span class="reporter-method-output">Clicked on patients tab</span>
+                <span class="reporter-method-output">Clicked on referral or authorization</span>
+                <span class="reporter-method-output">Clicked on patients tab</span>
+                <span class="reporter-method-output">Clicked on History button</span>
+                <span class="reporter-method-output">Clicked on import/export under patients >> history >> import/export</span>
+                <span class="reporter-method-output">Clicked on patients tab</span>
+                <span class="reporter-method-output">Clicked on Debt set off </span>
+                <span class="reporter-method-output">Clicked on patients tab</span>
+                <span class="reporter-method-output">Clicked on Bad debt write off</span>
+                <span class="reporter-method-output">Clicked on patients tab</span>
+                <span class="reporter-method-output">Clicked on Debt sett off summary button</span>
+                <span class="reporter-method-output">Clicked on send batch tab</span>
+                <span class="reporter-method-output">Clicked on Batch Status Tab</span>
+                <span class="reporter-method-output">Clicked on Search tab on practice page</span>
+                <span class="reporter-method-output">Clicked on Batches under Search >> Batches on practice page</span>
+                <span class="reporter-method-output">Clicked on Search tab on practice page</span>
+                <span class="reporter-method-output">Clicked on claims under Search >>  claims on practice page</span>
+                <span class="reporter-method-output">Clicked on Search tab on practice page</span>
+                <span class="reporter-method-output">Clicked on Deleted claims under search >> Deleted claims on practice page</span>
+                <span class="reporter-method-output">Clicked on Search tab on practice page</span>
+                <span class="reporter-method-output">Clicked on Denials under Search >> Denials on practice page</span>
+                <span class="reporter-method-output">Clicked on Search tab on practice page</span>
+                <span class="reporter-method-output">Clicked on Errors under search >> Errors on practice page</span>
+                <span class="reporter-method-output">Clicked on Search tab on practice page</span>
+                <span class="reporter-method-output">Clicked on Rejections under search >> Rejections on practice page</span>
+                <span class="reporter-method-output">Clicked on New claim tab</span>
+                <span class="reporter-method-output">Clicked on Add primary professional under New claim >> Add primary professional</span>
+                <span class="reporter-method-output">Clicked on New claim tab</span>
+                <span class="reporter-method-output">Clicked on Add Secondary professional under New claim >> Add secondary professional</span>
+                <span class="reporter-method-output">Clicked on New claim tab</span>
+                <span class="reporter-method-output">Clicked on Add primary Institutional under New claim >> Add primary Institutional</span>
+                <span class="reporter-method-output">Clicked on New claim tab</span>
+                <span class="reporter-method-output">Clicked on Add Secondary Institutional under New claim >> Add secondary Institutional</span>
+                <span class="reporter-method-output">Clicked on posting tab</span>
+                <span class="reporter-method-output">Clicked on Manage under Posting >> Manage on practice account</span>
+                <span class="reporter-method-output">Clicked on posting tab</span>
+                <span class="reporter-method-output">Clicked on Check EFT under posting >> check EFT on practice account</span>
+                <span class="reporter-method-output">Clicked on patient statements tab</span>
+                <span class="reporter-method-output">Clicked on manage under patient statements >> Manage</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Batch under Reports >> Batch on practice account</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on claim button under Reports >>  claim on practice account</span>
+                <span class="reporter-method-output">Clicked on Detail button under Reports >> Claim >> Detail on practice account</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on claim button under Reports >>  claim on practice account</span>
+                <span class="reporter-method-output">Clicked on Master button under Reports >> Claim >> Master on practice account</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on claim button under Reports >>  claim on practice account</span>
+                <span class="reporter-method-output">Clicked on Closed button under Reports >> Claim >> Closed on practice account</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on claim button under Reports >>  claim on practice account</span>
+                <span class="reporter-method-output">Clicked on Antipate Revenue button under Reports >> Claim >> Anticipate Revenue</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on claim button under Reports >>  claim on practice account</span>
+                <span class="reporter-method-output">Clicked on Contracted button under Reports >> Claim >> Contracted</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on claim button under Reports >>  claim on practice account</span>
+                <span class="reporter-method-output">Clicked on Billing button under Reports >> Claim >> Billing</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on claim button under Reports >>  claim on practice account</span>
+                <span class="reporter-method-output">Clicked on Late Biling under Reports >> Claim >> Late Filing</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on claim button under Reports >>  claim on practice account</span>
+                <span class="reporter-method-output">Clicked on Claim Export under Reports >> Claim >> Claim Export</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Service Line button under Reports >> Service Line on practice account</span>
+                <span class="reporter-method-output">Clicked on Details under Reports >> Service Line >> Details</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Service Line button under Reports >> Service Line on practice account</span>
+                <span class="reporter-method-output">Clicked on Denied Service button under Reports >> Servie Line >> Denied Service</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Patient button under Reports >> Patient on practice account</span>
+                <span class="reporter-method-output">Clicked on cash posting button under Reports >> Patient >> cash posting</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Patient button under Reports >> Patient on practice account</span>
+                <span class="reporter-method-output">Clicked on cash posting button under Reports >> Patient >> cash posting</span>
+                <span class="reporter-method-output">Clicked on Default button under Reports >> Patient >> cash Posting >> Default</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Patient button under Reports >> Patient on practice account</span>
+                <span class="reporter-method-output">Clicked on cash posting button under Reports >> Patient >> cash posting</span>
+                <span class="reporter-method-output">Clicked on By Program button under Reports >> Patient >> cash Posting >> By Program</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Patient button under Reports >> Patient on practice account</span>
+                <span class="reporter-method-output">Clicked on cash posting button under Reports >> Patient >> cash posting</span>
+                <span class="reporter-method-output">Clicked on Deleted button under Reports >> Patient >> Cash Posting >> Deleted</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Patient button under Reports >> Patient on practice account</span>
+                <span class="reporter-method-output">Clicked on Collection Report button under Reports >> Patient >> Collection Report</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Patient button under Reports >> Patient on practice account</span>
+                <span class="reporter-method-output">Clicked on Medicad Patient vol button under Reports >> Patient >> Medicad patient Vol</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Aging button under Reports >> Aging on practice account</span>
+                <span class="reporter-method-output">Clicked on Insurance Claim Button under Reports >> Aging >> Insurance Claim</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Aging button under Reports >> Aging on practice account</span>
+                <span class="reporter-method-output">Clicked on Self Pay claim button under Reports  >> Aging >> Self Pay Claim</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Aging button under Reports >> Aging on practice account</span>
+                <span class="reporter-method-output">Clicked On By DOS button under Reports >> Aging >> By DOS</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Aging button under Reports >> Aging on practice account</span>
+                <span class="reporter-method-output">Clicked on A/R button under Reports >> Aging >> A/R</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Aging button under Reports >> Aging on practice account</span>
+                <span class="reporter-method-output">Clicked on Ledger Balance button under Reports >> Aging >> Ledger Balance</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account</span>
+                <span class="reporter-method-output">Clicked on Medicaid By RA Date button under Reports >> Payment Analysis Report >> Medicaid By RA date</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account</span>
+                <span class="reporter-method-output">Clicked on By RA Date and Payer button under Reports >> Payment Analysis Report >> By RA Date and Payer</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account</span>
+                <span class="reporter-method-output">Clicked on Invoice button under Reports >> Payment Analysis Report >> Invoice</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account</span>
+                <span class="reporter-method-output">Clicked on Revenue Summary button under Reports >> Payment Analysis Report >> Revenue Summary</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account</span>
+                <span class="reporter-method-output">CLicked on Practice Analysis button under Reports >> Payment Analysis Reports >> Pratice Analysis button</span>
+                <span class="reporter-method-output">Clicked on By claims button under Reports >> Payment Analysis Reports >> Practice Analysis >> By claims</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account</span>
+                <span class="reporter-method-output">CLicked on Practice Analysis button under Reports >> Payment Analysis Reports >> Pratice Analysis button</span>
+                <span class="reporter-method-output">CLicked on By procedure button under Reports >> Payment Analysis Reports >> Practice Analysis >> By procedure</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account</span>
+                <span class="reporter-method-output">CLicked on Practice Analysis button under Reports >> Payment Analysis Reports >> Pratice Analysis button</span>
+                <span class="reporter-method-output">Clicked on A/R Summary button under Reports >> Payment Analysis Reports >> Practice Analysis >> A/R Summary</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account</span>
+                <span class="reporter-method-output">Clicked on Insurance Analysis button under Reports >> Payment Analysis Reports >> Insurance Analysis button</span>
+                <span class="reporter-method-output">Clicked on By Payer button under Reports >> Payment Analysis Reports >> Insurance Analysis >> By Payer</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account</span>
+                <span class="reporter-method-output">Clicked on Insurance Analysis button under Reports >> Payment Analysis Reports >> Insurance Analysis button</span>
+                <span class="reporter-method-output">Clicked on By procedure under Reports >> Payment Analysis Reports >> Insurance Analysis >> By Procedure</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on payement Analysis Report button under Reports >> Payment Analysis report on practice account</span>
+                <span class="reporter-method-output">Clicked on Insurance Analysis button under Reports >> Payment Analysis Reports >> Insurance Analysis button</span>
+                <span class="reporter-method-output">Clicked on Totals button under Reports >> Payment Analysis Reports >> Insurance Analysis >> Totals</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Activity Reports under Reports >> Activity Reports on practice account</span>
+                <span class="reporter-method-output">Clicked On Activity Summary button under Reports  >> Activity Reports >> Activity Summary</span>
+                <span class="reporter-method-output">Clicked on By Provider button under Reports >> Activity Reports >> Activity Summary >> By Provider</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Activity Reports under Reports >> Activity Reports on practice account</span>
+                <span class="reporter-method-output">Clicked On Activity Summary button under Reports  >> Activity Reports >> Activity Summary</span>
+                <span class="reporter-method-output">Clicked on By Insurance button under Reports >> Activity Reports >> Activity Summary >> By Insurance</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Activity Reports under Reports >> Activity Reports on practice account</span>
+                <span class="reporter-method-output">Clicked on Daily Activity button under Reports >> Activity Reports >> Daily Activity</span>
+                <span class="reporter-method-output">Clicked on By Procedure button under Reports >> Activity Reports >> Daily Activity >> By Procedure</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Activity Reports under Reports >> Activity Reports on practice account</span>
+                <span class="reporter-method-output">Clicked on Daily Activity button under Reports >> Activity Reports >> Daily Activity</span>
+                <span class="reporter-method-output">Clicked On By Procedure and Program button under Reports >> Activity Reports >> Daily Activity >> By Procedure and Program</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Activity Reports under Reports >> Activity Reports on practice account</span>
+                <span class="reporter-method-output">Clicked on Daily Activity button under Reports >> Activity Reports >> Daily Activity</span>
+                <span class="reporter-method-output">Clicked On Census button under Reports >> Activity Reports >> Daily Activity >> Census</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Activity Reports under Reports >> Activity Reports on practice account</span>
+                <span class="reporter-method-output">Clicked on Daily Activity button under Reports >> Activity Reports >> Daily Activity</span>
+                <span class="reporter-method-output">Clicked On Provider Schedule under Reports >> Activity Reports >> Daily Activity >> Provider Schedule</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Activity Reports under Reports >> Activity Reports on practice account</span>
+                <span class="reporter-method-output">Clicked On Patient Activity button under Reports >> Activity Reports >> Patient Activity</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Activity Reports under Reports >> Activity Reports on practice account</span>
+                <span class="reporter-method-output">Clicked on Billing Activity button under Reports  >> Activity Reports >> Billing Activity</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Activity Reports under Reports >> Activity Reports on practice account</span>
+                <span class="reporter-method-output">Clicked On Ins Payment Activity button under Reports >> Activity Reports >> Ins Payment Activity</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on SFS program button under Reports >> SFS program on practice account</span>
+                <span class="reporter-method-output">Clicked on Program Summary button under Reports >> SFS program >> Program Summary</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on SFS program button under Reports >> SFS program on practice account</span>
+                <span class="reporter-method-output">Clicked On SFS Totals button under Reports >> SFS Program >> SFS Totals</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Ambulance button under Reports >> Ambulance on practice account</span>
+                <span class="reporter-method-output">Clicked On Anticipated Revenue By pick Up Zip button under Reports >> Ambulance >> Anticipated Revenue By Pick Up Zip </span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Ambulance button under Reports >> Ambulance on practice account</span>
+                <span class="reporter-method-output">Clicked on ALS/BLS button under Reports >> Ambulance >> ALS / BLS </span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Ambulance button under Reports >> Ambulance on practice account</span>
+                <span class="reporter-method-output">Clicked on Pick up button under Reports >> Ambulance >> Pick up</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on Others under Reports >> others on practice account</span>
+                <span class="reporter-method-output">Clicked on Medicaid/Non Medicaid button under Reports >> Others >> Medicaid/Non Medicaid</span>
+                <span class="reporter-method-output">Clicked on Reports Tab</span>
+                <span class="reporter-method-output">Clicked on View Reports under Reports >> View Reports on practice account</span>
+                <span class="reporter-method-output">Clicked on Invoice Tab on practice account</span>
+                <span class="reporter-method-output">Clicked on Create button under Invoice >> create on practice account</span>
+                <span class="reporter-method-output">Clicked on Invoice Tab on practice account</span>
+                <span class="reporter-method-output">Clicked on Rate chart button under Invoice >> Rate Chart on practice account</span>
+                <span class="reporter-method-output">Clicked on Invoice Tab on practice account</span>
+                <span class="reporter-method-output">Clicked on Setting button under Invoice >> Settings on practice account</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">AllTestScripts.demo</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">openBrowser</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">testing</span>
+                <span class="method-start">4841 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closeBrowser([TestResult name=testing status=SUCCESS method=demo.testing()[pri:0, instance:AllTestScripts.demo@40...)</span>
+                <span class="method-start">146374 ms</span>
+              </div> <!-- configuration-method after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>
